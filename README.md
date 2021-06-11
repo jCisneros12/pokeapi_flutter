@@ -1,7 +1,4 @@
 # pokeapi_flutter
-<<<<<<< HEAD
-application developed with flutter using the pokemon api pokeapi.co
-=======
 
 <h1 align="center">
 PikeApi App built with Flutter
