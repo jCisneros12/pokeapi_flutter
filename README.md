@@ -29,4 +29,3 @@ PikeApi App built with Flutter
 - Check list of pokemons online and offline
 - Check pokemon details
 - Search pokemon By name
->>>>>>> master
