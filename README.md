@@ -1,16 +1,31 @@
-# poke_api_app
+# pokeapi_flutter
 
-A new Flutter project.
+<h1 align="center">
+PikeApi App built with Flutter
+<br>
+</h1>
 
-## Getting Started
+<p>
+📱 Simple pokemon application build with Flutter made with clean architecture and using the official pokemon api pokeapi.co and SQFLite
+</p>
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="screenshots/sc-search.jpg" width="270" alt="Home">
+  <img src="screenshots/sc-home.jpg" width="270" alt="search">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- :white_check_mark: Flutter, Dart
+- :white_check_mark: API: https://pokeapi.co/
+- :white_check_mark: SQFLite
+- :white_check_mark: Clean Arquitecture
+- :white_check_mark: Change Notifier Provider
+
+## We can do
+
+- Check list of pokemons online and offline
+- Check pokemon details
+- Search pokemon By name
